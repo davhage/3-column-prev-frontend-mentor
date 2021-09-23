@@ -150,6 +150,9 @@ button {
 }
 
 @media only screen and (max-width: 675px) {
+    body {
+        margin: 50px;
+    }
     main {
         flex-direction: column;
     }
